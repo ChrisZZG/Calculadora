@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+![calculadoraexamples](https://github.com/ChrisZZG/Calculadora/assets/104231253/2eeaf6d9-4aed-40bf-9ede-aba3eec98f20)
+
 ## Available Scripts
 
 In the project directory, you can run:
