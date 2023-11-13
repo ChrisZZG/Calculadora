@@ -1,0 +1,19 @@
+
+.input{
+    width: 332px;
+    height: 83px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: #181818;
+    border-radius: 5px;
+    padding: 11px;
+    border: 1px solid #838383;
+}
+
+.input:hover{
+    background-color: #838383;
+    color: #FFFFFF;
+}
